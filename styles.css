@@ -614,7 +614,7 @@ svg.lucide, [class^="lucide-"], [class*=" lucide-"] {
         margin: 0.5rem 0.75rem; /* Reduce space between list items */
         flex: 1 0 auto; /* Allow items to resize and fit the screen */
         text-align: center; /* Center the text */
-        font-size: 8.2pt;
+        font-size: 10.2pt;
     }
 
     /* Center skill grid items and make sure there are two per row */
