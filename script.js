@@ -166,14 +166,14 @@ const projects = [
         github: 'https://github.com/muhammedmuneerk/artisancreations',
         live: 'https://artisancreations.vercel.app',
     },
-    // {
-    //     name: 'MMKflix',
-    //     description: 'A Netflix clone built with React and TMDB API integration.',
-    //     image: 'images/collage-mmkflix-1.png',
-    //     technologies: ['React', 'Node.js', 'CSS', 'TMDB API'],
-    //     github: 'https://github.com/yourusername/netflix-clone',
-    //     live: 'https://mmkflix.vercel.app',
-    // },
+    {
+        name: 'MMKflix',
+        description: 'A Netflix clone built with React and TMDB API integration.',
+        image: 'images/collage-mmkflix-1.png',
+        technologies: ['React', 'Node.js', 'CSS', 'TMDB API'],
+        github: 'https://github.com/yourusername/netflix-clone',
+        live: 'https://mmkflix.vercel.app',
+    },
     {
         name: 'ToDo App',
         description: 'A modern todolist application.',
